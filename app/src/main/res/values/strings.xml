@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btnAdd">더하기</string>
+    <string name="btnMin">빼기</string>
+    <string name="btnMul">곱하기</string>
+    <string name="btnSub">나누기</string>
+    <string name="btnRem">나머지값</string>
+</resources>
